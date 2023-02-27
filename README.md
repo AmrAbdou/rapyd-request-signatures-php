@@ -7,5 +7,5 @@ Verifies that the requester is an authorized user. Protects data from tampering 
 
 ---
 ### Resources
-Make your first API Call with Rapyd Payments documentation: https://docs.rapyd.net/build-with-rapyd/docs/make-your-first-api-call
-Join the Rapyd Community: https://community.rapyd.net
+- Make your first API Call with Rapyd Payments documentation: https://docs.rapyd.net/build-with-rapyd/docs/make-your-first-api-call
+- Join the Rapyd Community: https://community.rapyd.net
